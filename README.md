@@ -1,12 +1,15 @@
 #JERRY(MDhasanansari)
 
 IT's basically a malicious .deb file created by jerry (Md hasanansari) to demostrate that it's also be dangerous for you to install and run a .deb file blindly.
+
 It's totally a misconception that if you are using linux then you are safe , you are not safe bro . Let's run it and show/ demostrate how everything works in the background.
 
 Know me personally......
 
 Twitter : https://twitter.com/Mdhsan19
+
 Linkedn : https://www.linkedin.com/in/md-hasan-03596a1b5/
+
 instagram : https://instagram.com/mdhasan8178/
 
 
