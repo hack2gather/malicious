@@ -1,0 +1,13 @@
+// Open the calculator
+function openCalculator() {
+  if (navigator.platform.indexOf("Win") != -1) {
+    // Windows
+    window.open("calc.exe");
+  } else if (navigator.platform.indexOf("Mac") != -1) {
+    // macOS
+    window.open("/Applications/Calculator.app");
+  } else {
+    // Linux
+    window.open("gnome-calculator");
+  }
+}
